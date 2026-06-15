@@ -1,0 +1,17 @@
+.venv/
+env/
+**pycache**/
+*.pyc
+
+.env
+.env.local
+
+chroma_db/
+memory_store.json
+conversation_summary.txt
+
+node_modules/
+.next/
+out/
+
+.DS_Store
